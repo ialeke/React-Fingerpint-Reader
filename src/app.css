@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+#root {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.app {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
